@@ -1,7 +1,8 @@
 modalLoading
 =========
 
-This script allows you to include any project loading screen modal.
+modalLoading.js is a lightweight JavaScript that allows you to include any project loading screen modal.
+
 
 Bower installation
 =========
