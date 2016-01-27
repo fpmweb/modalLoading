@@ -9,6 +9,10 @@ Install
 
 Installation is very simple. You only have to insert the JS library.
 
+```js
+<script type="text/javascript"src="modalLoading.js"></script>
+```
+
 Only one call to the class with true / false parameter.
 
 ```js
