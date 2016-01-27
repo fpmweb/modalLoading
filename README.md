@@ -11,8 +11,10 @@ Installation is very simple. You only have to insert the JS library.
 
 Only one call to the class with true / false parameter.
 
+```js
+  modalLoading.init(true);
+```
 
-modalLoading.init(true);
-
-
-modalLoading.init(true);
+```js
+  modalLoading.init(true);
+```
