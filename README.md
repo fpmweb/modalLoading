@@ -2,6 +2,10 @@ modalLoading
 =========
 
 modalLoading.js is a lightweight JavaScript that allows you to include any project loading screen modal.
+
+Demo
+=========
+
 http://fpmweb.github.io/modalLoading
 
 
